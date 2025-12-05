@@ -14,6 +14,9 @@ import HelloWorld from "./components/HelloWorld.vue";
         <RouterLink to="/model">v-model</RouterLink>
         <RouterLink to="/on">v-on</RouterLink>
         <RouterLink to="/If">v-If</RouterLink>
+        <RouterLink to="/For">v-For</RouterLink>
+        <RouterLink to="/ForObj">v-ForObj</RouterLink>
+        <RouterLink to="/todo">v-TodoList</RouterLink>
       </nav>
     </div>
   </header>
