@@ -7,7 +7,7 @@ const getRandomValue = () => {
 };
 
 const point = ref(100);
-
+// 깃허브 시험
 const checked = ref(false);
 </script>
 
